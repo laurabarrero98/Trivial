@@ -1,0 +1,66 @@
+¿Qué significa la sigla "IP" en redes?
+Internet Protocol
+Internet Provider
+Internal Process
+Information Pathway
+1
+¿Cuál es la principal función de un servidor DNS en una red?
+Enviar correos electrónicos
+Traducir nombres de dominio a direcciones IP
+Interviene en las funciones de enrutado
+Proporcionar conectividad Wi-Fi
+2
+¿Cuál es la función de una CDN (Content Delivery Network)?
+Monitorizar el tráfico de la red
+Proteger la red de ataques DDoS
+Almacenar copias de seguridad de los datos
+Distribuir contenido a los usuarios de manera rápida y eficiente.
+4
+¿Qué es el "balanceo de carga" en redes?
+Reducir el uso de ancho de banda
+Incrementar la velocidad de la conexión a internet
+Distribuir el tráfico de red entre varios servidores para asegurar la eficiencia y fiabilidad
+Monitorizar el tráfico de la red
+3
+¿Qué significa NAT en redes?
+Network Access Terminal
+Network Authentication Token
+Network Address Translation
+Network Activity Tracker
+3
+¿Cuál es el propósito principal del protocolo DHCP (Dynamic Host Configuration Protocol)?
+Encriptar datos transmitidos en la red
+Asignar direcciones IP dinámicamente a dispositivos en una red
+Optimizar el rendimiento de la red mediante algoritmos de compresión
+Establecer conexiones seguras entre servidores y clientes
+2
+¿Qué es un firewall en el contexto de redes de computadoras?
+Un dispositivo para conectar redes inalámbricas
+Un protocolo para el intercambio de información entre dispositivos
+Un sistema de seguridad que controla el tráfico de red basado en reglas
+Un tipo de antena para mejorar la cobertura de red
+3
+¿Qué es un protocolo de enrutamiento en redes?
+Un conjunto de reglas para la transmisión de datos entre dispositivos
+Un método para configurar dispositivos de red de forma automática
+Un sistema para gestionar el tráfico de red en tiempo real
+Un algoritmo para determinar la mejor ruta de datos entre redes
+4
+¿Qué función cumple un switch en una red Ethernet?
+Convertir señales analógicas en digitales
+Conectar diferentes redes LAN entre sí
+Filtrar y transmitir paquetes de datos dentro de una red local
+Controlar el acceso de dispositivos a una red inalámbrica
+3
+¿Qué es un router en una red de computadoras?
+Un dispositivo que interconecta redes y dirige el tráfico de datos
+Un dispositivo para conectar impresoras a la red
+Un sistema de seguridad que protege la red contra ataques
+Un servidor que almacena y distribuye archivos en la red
+1
+¿Cuál es el propósito principal de la encapsulación de paquetes en redes de datos?
+Aumentar la velocidad de transmisión de datos.
+Agregar información de control y dirección al paquete de datos.
+Mejorar la seguridad de la red.
+Reducir el tamaño de los paquetes transmitidos.
+2

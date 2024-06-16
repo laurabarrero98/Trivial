@@ -1,0 +1,36 @@
+¿Qué técnica se utiliza para enseñar a una máquina mediante ejemplos?
+Machine Learning
+Quantum Computing
+Blockchain
+Data Mining
+1
+¿Qué es el "aprendizaje supervisado" en el contexto del aprendizaje automático?
+Un tipo de aprendizaje automático sin necesidad de datos etiquetados
+Un tipo de aprendizaje automático donde el modelo se entrena con datos etiquetados
+Un método para mejorar la eficiencia energética de los dispositivos
+Un algoritmo que permite supervisar la base de conocimiento 
+2
+¿Cuál de los siguientes no es un tipo de aprendizaje automático?
+Aprendizaje No Supervisado
+Aprendizaje Reforzado
+Aprendizaje Natural
+Aprendizaje Semi-Supervisado
+3
+¿Cuál de los siguientes no es un ejemplo de aplicación de inteligencia artificial en la vida cotidiana?
+Asistentes virtuales como Siri o Alexa
+Sistemas de recomendación de películas en plataformas de streaming
+Filtros de correo no deseado (spam)
+Sistemas operativos como Windows o macOS
+4
+¿Cuál es uno de los principales beneficios de combinar la inteligencia artificial (IA) con el Internet de las Cosas (IoT)?
+Mejora la eficiencia energética de los dispositivos IoT
+Permite que los dispositivos IoT aprendan y tomen decisiones autónomas
+Aumenta la velocidad de transmisión de datos en redes IoT
+Reduce la necesidad de conectividad a Internet para los dispositivos IoT
+2
+¿Cuál de las siguientes técnicas de inteligencia artificial se utiliza típicamente para reconocimiento de voz?
+Algoritmos genéticos
+Redes neuronales convolucionales (CNN)
+Algoritmos de búsqueda
+Árboles de decisión
+2

@@ -1,0 +1,54 @@
+¿Quién es considerado el padre de la computación moderna?
+Steve Jobs
+Bill Gates
+Alan Turing
+Mark Zuckerberg
+3
+¿Cuál fue el primer lenguaje de programación de alto nivel?
+COBOL
+Fortran
+BASIC
+C
+2
+¿Quién inventó el primer motor de búsqueda en Internet?
+Tim Berners-Lee
+Larry Page y Sergey Brin
+Marc Andreessen
+Alan Emtage
+4
+¿Qué empresa desarrolló el primer microprocesador?
+Intel
+IBM
+AMD
+Nvidia
+1
+¿Qué sistema operativo es conocido por ser el primer sistema operativo gráfico?
+Xerox PARC's Alto
+Windows 95
+Mac OS
+Linux
+1
+¿En qué año se envió el primer correo electrónico?
+1965
+1971
+1983
+1990
+2
+¿Qué empresa lanzó la primera computadora personal comercialmente exitosa?
+IBM
+Apple
+Microsoft
+Xerox
+2
+¿Qué evento marcó el inicio de la era moderna de la computación?
+Lanzamiento de Windows 95
+Desarrollo de la World Wide Web 
+Invención del transistor
+Creación del primer microprocesador
+3
+¿Qué sistema operativo fue desarrollado originalmente por Linus Torvalds en 1991 y es ampliamente utilizado en servidores y dispositivos embebidos?
+Windows
+macOS
+Linux
+Unix
+3
